@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.20.0)
 get_filename_component(SAY_HELLO_PATH
-    "${CMAKE_SOURCE_DIR}/../modules/say_hello"
+    "${CMAKE_SOURCE_DIR}/modules/say_hello"
     REALPATH
 )
 
