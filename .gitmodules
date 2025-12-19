@@ -1,3 +1,0 @@
-[submodule "modules/say_hello"]
-	path = modules/say_hello
-	url = https://github.com/chasekan27/say_hello.git
